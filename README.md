@@ -1,5 +1,4 @@
 # Traffic Light Project
-[Github Link](https://github.com/huaraina/traffic-light-ted)
 R&D Research Project
 
 ## Files
